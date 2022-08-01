@@ -63,7 +63,7 @@
 
 ----
 
-## 👨‍💻 Front-end 팀원 소개
+## 👨‍💻 팀원 소개
 
 ### [Front-end GitHub >](https://github.com/team-ribbon/ribborn-frontend)
  
@@ -73,10 +73,6 @@
 | 차혜준 | https://github.com/nujeyh | 
 
 <br>
-
----
-
-## 👨‍💻 Back-end 팀원 소개
 
 ### [Back-end GitHub >](https://github.com/team-ribbon/ribborn-backend)
 
