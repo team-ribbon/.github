@@ -83,3 +83,8 @@
 | 박성규 | https://github.com/ParkSungGyu1  |
 | 박성렬 | https://github.com/songryel-park |
 | 이정우 | https://github.com/lky8967       |
+
+### Design
+| Name   | Figma                           |
+| ------ | -------------------------------- |
+| 채리아 | https://www.figma.com/file/HpvWyB5bPt1mubbFDymSUw/채리아_8조?node-id=0%3A1  |
